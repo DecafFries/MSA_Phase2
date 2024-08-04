@@ -12,6 +12,6 @@ This repository tracks my progress completing the required tasks specified in Mi
 ### 2. The datasets for Part 1 task has been stored under:
 - [W Store Datasets](https://github.com/DecafFries/MSA_Phase2/tree/cb2dd103693edd8e5150ee8c20bbe4f1e12c28e8/datasets/W%20store%20sales)
 ### 3. The output datasets for Part 1 and Part 3 tasks have been stored under:
-- [outputs](https://github.com/DecafFries/MSA_Phase2/tree/cb2dd103693edd8e5150ee8c20bbe4f1e12c28e8/outputs)
+- [Outputs](https://github.com/DecafFries/MSA_Phase2/tree/cb2dd103693edd8e5150ee8c20bbe4f1e12c28e8/outputs)
   - [Part 1 Preprocessed Dataset](https://github.com/DecafFries/MSA_Phase2/blob/cb2dd103693edd8e5150ee8c20bbe4f1e12c28e8/outputs/w_df.csv)
   - [Part 3 Submission Dataset](https://github.com/DecafFries/MSA_Phase2/blob/cb2dd103693edd8e5150ee8c20bbe4f1e12c28e8/outputs/submission.csv)
